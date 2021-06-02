@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/testing-app/static/css/main.e52939e1.chunk.css",
-    "main.js": "/testing-app/static/js/main.03417779.chunk.js",
-    "main.js.map": "/testing-app/static/js/main.03417779.chunk.js.map",
+    "main.js": "/testing-app/static/js/main.66e06e21.chunk.js",
+    "main.js.map": "/testing-app/static/js/main.66e06e21.chunk.js.map",
     "runtime-main.js": "/testing-app/static/js/runtime-main.e699de67.js",
     "runtime-main.js.map": "/testing-app/static/js/runtime-main.e699de67.js.map",
     "static/css/2.97d68a7f.chunk.css": "/testing-app/static/css/2.97d68a7f.chunk.css",
@@ -20,6 +20,8 @@
     "static/media/eyeball.b62f76e1.png": "/testing-app/static/media/eyeball.b62f76e1.png",
     "static/media/eyeballit4.f82165cd.jpg": "/testing-app/static/media/eyeballit4.f82165cd.jpg",
     "static/media/foreground0.b36c48a4.png": "/testing-app/static/media/foreground0.b36c48a4.png",
+    "static/media/head.449bc456.png": "/testing-app/static/media/head.449bc456.png",
+    "static/media/headstar10.fcbbe4c2.png": "/testing-app/static/media/headstar10.fcbbe4c2.png",
     "static/media/ii1.7f307da2.png": "/testing-app/static/media/ii1.7f307da2.png",
     "static/media/ii2.36f14ff0.png": "/testing-app/static/media/ii2.36f14ff0.png",
     "static/media/ii3.324fc83f.png": "/testing-app/static/media/ii3.324fc83f.png"
@@ -29,6 +31,6 @@
     "static/css/2.97d68a7f.chunk.css",
     "static/js/2.c83f5cf0.chunk.js",
     "static/css/main.e52939e1.chunk.css",
-    "static/js/main.03417779.chunk.js"
+    "static/js/main.66e06e21.chunk.js"
   ]
 }
